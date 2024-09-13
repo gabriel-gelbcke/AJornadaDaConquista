@@ -1,7 +1,7 @@
-<h1>Front-End: Gabriel Gelbcke
+<h2>Front-End: Gabriel Gelbcke</h2>
 Back-End: Antônio Neto
 Imagens: Davi Alves
-Testes: Gustavo Giroto</h1>
+Testes: Gustavo Giroto
 
 <h1>Para rodar este projeto Android, siga estas etapas:</h1>
 <h2>1. Clone o Repositório</h2>
